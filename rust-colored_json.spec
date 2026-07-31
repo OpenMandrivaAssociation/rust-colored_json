@@ -5,8 +5,8 @@
 %global crate colored_json
 
 Name:           rust-%{crate}
-Version:        2.1.0
-Release:        2%{?dist}
+Version:        5.0.0
+Release:        1%{?dist}
 Summary:        Colorize JSON, for printing it out on the command line
 
 # Upstream license specification: EPL-2.0
